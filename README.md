@@ -3,7 +3,7 @@
 
 <p dir="rtl"> 🔭 כרגע פרילנס במיזם התנדבותי. עובדת עם React, React-Native. מפתחת במקביל אתר קורסים לצד מתכנתת מנוסה בDrupal.  </p>
 
-<p dir="rtl"> 🧩 בנוסף עברתי לאחרונה קורס SAP ABAP/UI5 מטעם חברת MYPAS. </p>
+<p dir="rtl"> 🧩 בנוסף עברתי לאחרונה קורס SAP ABAP/UI5 מטעם חברת <a href="https://mypas.co.il/">MyPas</a>. </p>
 
 <p dir="rtl"> 🔑 יש לי ידע נרחב בשפות:  Angular 8, React+Redux, NodeJs, TypeScript, C #, SQL, JavaScript, Python ועוד ..  </p>
 
@@ -23,6 +23,7 @@
 
 
 <!--
+https://mypas.co.il/
 **ShiraBenZaken/ShiraBenZaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
