@@ -1,7 +1,7 @@
 <h1 align="center">היי 👋 , אני שירה בן זקן  </h1>
 <h3 align="center"><a href="https://www.kamatech.org.il/">KamaTech</a>  מתכנתת ג'וניירית , בוגרת לימודי מה"ט הנדסת תוכנה וקורסי בוטקאמפ מטעם</h3>
 
-<p dir="rtl"> 🔭 כרגע פרילנס במיזם התנדבותי. עובדת עם React, React-Native. מפתחת במקביל אתר קורסים לצד מתכנתת מנוסה בDrupal.  </p>
+<p dir="rtl"> 🔭 כרגע פרילנס במיזם התנדבותי. עובדת עם React, React-Native. מפתחת במקביל אתר קורסים לצד מתכנתת מנוסה ב Drupal ומחפשת את האתגר הראשון לי.  </p>
 
 <p dir="rtl"> 🧩 בנוסף עברתי לאחרונה קורס ABAP SAP/UI5 מטעם חברת <a href="https://mypas.co.il/">MyPas</a>. </p>
 
