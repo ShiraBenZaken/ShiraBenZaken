@@ -17,7 +17,7 @@
 <h6 dir="rtl">   NODE.JS  <a href="https://github.com/ShiraBenZaken/nodejs_employees-master">ניהול עובדים</a>  </h6>
 <h5 dir="rtl"> כמה פרוייקטים פרטיים- איתכם הסליחה 👩‍💻 </h5>
 
-<p dir="rtl"> 🛴 אפשר לשיג אותי ב <a href="https://www.linkedin.com/in/shira-ben-zaken/">לינקדאין</a> וב <a href="mailto:shira441192@gmail.com">אימייל</a>  </p>
+<p dir="rtl"> 🛴 אפשר להשיג אותי ב <a href="https://www.linkedin.com/in/shira-ben-zaken/">לינקדאין</a> וב <a href="mailto:shira441192@gmail.com">אימייל</a>  </p>
 
 <h4> אשמח לשמוע מכם 💜</h4>
 
