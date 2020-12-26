@@ -1,5 +1,5 @@
 <h1 align="center">היי 👋 , אני שירה בן זקן  </h1>
-<h3 align="center"><a href="https://www.kamatech.org.il/">KamaTech</a> ⬆ מתכנתת ג'וניירית 👧 , בוגרת לימודי מה"ט הנדסת תוכנה וקורסי בוטקאמפ מטעם</h3>
+<h3 align="center"><a href="https://www.kamatech.org.il/">KamaTech</a> ⬆ מתכנתת 👧 , בוגרת לימודי מה"ט הנדסת תוכנה וקורסי בוטקאמפ מטעם</h3>
 
 <p dir="rtl"> 🔭 2020- פרילנסית במיזם התנדבותי.🤍 עובדת עם React, React-Native. עובדת עם Redux,Es6,Css3 וFirebase מפתחת במקביל אתר קורסים לצד מתכנתת מנוסה ב Drupal ( עובדת עם php,Sass) ומחפשת את האתגר הראשון לי.  </p>
 
