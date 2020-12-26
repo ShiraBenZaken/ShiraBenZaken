@@ -9,7 +9,6 @@
 
 <p dir="rtl"> כמה פרוייקטים מעניינים: </p>
 
-<h6 dir="rtl"> ❤ דרופל <a href="https://github.com/ShiraBenZaken/luzi">לוזי-קורסים דיגיטלים</a> </h6>
 <h6 dir="rtl">  🧡 ריאקט  <a href="https://github.com/ShiraBenZaken/simple-fast-react-spa">SPA בריאקט + משחק X O</a>   </h6>
 <h6 dir="rtl">  💛 אנגולר  <a href="https://github.com/ShiraBenZaken/Exemple-Angular-Mini-Very_Simple-Project">פונקציונליות פשוטה הוספה מחיקה..</a> |
 <a href="https://github.com/ShiraBenZaken/mysite-project-">אתר אישי</a>   </h6>
