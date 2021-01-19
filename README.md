@@ -9,12 +9,13 @@
 
 <p dir="rtl"> כמה פרוייקטים מעניינים: </p>
 
+<h5 dir="rtl"> הפרוייקטים הרציניים פרטיים- איתכם הסליחה 👩‍💻 </h5>
+
 <h6 dir="rtl">  🧡 ריאקט  <a href="https://github.com/ShiraBenZaken/simple-fast-react-spa">SPA בריאקט + משחק X O</a>   </h6>
 <h6 dir="rtl">  💛 אנגולר  <a href="https://github.com/ShiraBenZaken/Exemple-Angular-Mini-Very_Simple-Project">פונקציונליות פשוטה הוספה מחיקה..</a> |
 <a href="https://github.com/ShiraBenZaken/mysite-project-">אתר אישי</a>   </h6>
 <h6 dir="rtl">  💚 פייתון  <a href="https://github.com/ShiraBenZaken/Hangman-in-Python">HUNGMAN</a>  </h6>
 <h6 dir="rtl">  💙 NODE.JS  <a href="https://github.com/ShiraBenZaken/nodejs_employees-master">ניהול עובדים</a>  </h6>
-<h5 dir="rtl"> כמה פרוייקטים רציניים פרטיים- איתכם הסליחה 👩‍💻 </h5>
 
 <p dir="rtl"> 🛴 אפשר להשיג אותי ב 💬<a href="https://www.linkedin.com/in/shira-ben-zaken/">לינקדאין</a> וב💌 <a href="mailto:shira441192@gmail.com">אימייל</a>  </p>
 
