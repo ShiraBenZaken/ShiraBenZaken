@@ -11,6 +11,7 @@
 
 <h5 dir="rtl"> הפרוייקטים הרציניים פרטיים- איתכם הסליחה 👩‍💻 </h5>
 
+<h6 dir="rtl">  💜 HTML  <a href="https://github.com/ShiraBenZaken/html_project">תרגיל קטן ב html+css+js</a>   </h6>
 <h6 dir="rtl">  🧡 ריאקט  <a href="https://github.com/ShiraBenZaken/simple-fast-react-spa">SPA בריאקט + משחק X O</a>   </h6>
 <h6 dir="rtl">  💛 אנגולר  <a href="https://github.com/ShiraBenZaken/Exemple-Angular-Mini-Very_Simple-Project">פונקציונליות פשוטה הוספה מחיקה..</a> |
 <a href="https://github.com/ShiraBenZaken/mysite-project-">אתר אישי</a>   </h6>
@@ -19,7 +20,7 @@
 
 <p dir="rtl"> 🛴 אפשר להשיג אותי ב 💬<a href="https://www.linkedin.com/in/shira-ben-zaken/">לינקדאין</a> וב💌 <a href="mailto:shira441192@gmail.com">אימייל</a>  </p>
 
-<h4> אשמח לשמוע מכם 💜🤎🖤</h4>
+<h4> אשמח לשמוע מכם 🤎🖤</h4>
 
 
 <!--
