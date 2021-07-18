@@ -20,7 +20,7 @@
 
 <h4> אשמח לשמוע מכם 🤎🖤</h4>
 
-<h2 dir="rtl"> Skills </h2>
+<h2> Skills </h2>
 
 <img width="22px" title="Javascript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
 <img width="22px" title="Typescript" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg">
