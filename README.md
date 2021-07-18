@@ -51,6 +51,7 @@
 
 </br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShiraBenZaken](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miraleJ&theme=neon-dark)](https://git.io/streak-stats)
 
 <!--
 **ShiraBenZaken/ShiraBenZaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
