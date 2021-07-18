@@ -2,7 +2,7 @@
 <h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>היי, אני שירה בן-זקן</h1>
 
 [![GitHub ShiraBenZaken](https://img.shields.io/github/followers/ShiraBenZaken?label=follow&style=social)](https://github.com/ShiraBenZaken)&nbsp;
-[![Linkedin Profile](https://img.shields.io/badge/-Hadasa%20Schechter-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shira-ben-zaken/)&nbsp;
+[![Linkedin Profile](https://img.shields.io/badge/-Shira%20BenZaken-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shira-ben-zaken/)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ShiraBenZaken/ShiraBenZaken)&nbsp;
 
 <p dir="rtl"> כמה פרוייקטים מעניינים: </p>
