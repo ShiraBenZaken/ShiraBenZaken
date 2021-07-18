@@ -50,7 +50,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShiraBenZaken&layout=compact&card_width=445&exclude_repo=nand2tetris&langs_count=10)
 
 </br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShiraBenZaken](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miraleJ&theme=neon-dark)](https://git.io/streak-stats)
 
 <!--
