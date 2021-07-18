@@ -1,11 +1,9 @@
-<h1 align="center">היי 👋 , אני שירה בן זקן  </h1>
-<h3 align="center"><a href="https://www.kamatech.org.il/">KamaTech</a> ⬆ מתכנתת 👧 , בוגרת לימודי הנדסת תוכנה וקורסי בוטקאמפ מטעם</h3>
 
-<!-- <p dir="rtl"> 🔭 2020- פיתחתי אתר ואפליקציה במיזם התנדבותי.🤍 עבדתי עם React, React-Native. השתמשתי ב Redux,Es6,Css3 וFirebase כרגע מפתחת אתר קורסים לצד מתכנתת מנוסה ב Drupal ( עובדת עם php,Sass) ומחפשת את האתגר הבא שלי.  </p>
+<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>היי, אני שירה בן-זקן</h1>
 
-<p dir="rtl"> 🧩 בנוסף עברתי קורס ABAP SAP/UI5 מטעם חברת <a href="https://mypas.co.il/">MyPas</a>. </p>
-
-<p dir="rtl"> 🔑 יש לי ידע נרחב בשפות:  Angular 8, React+Redux, NodeJs, TypeScript, C #, SQL, JavaScript, Python ועוד ..  </p> -->
+[![GitHub ShiraBenZaken](https://img.shields.io/github/followers/ShiraBenZaken?label=follow&style=social)](https://github.com/ShiraBenZaken)&nbsp;
+[![Linkedin Profile](https://img.shields.io/badge/-Hadasa%20Schechter-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shira-ben-zaken/)&nbsp;
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=ShiraBenZaken/ShiraBenZaken)&nbsp;
 
 <p dir="rtl"> כמה פרוייקטים מעניינים: </p>
 
