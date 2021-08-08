@@ -32,12 +32,12 @@
 <img width="22px" title="CSS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
 <img width="22px" title="Nodejs" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
 <img width="22px" title="MongoDB" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
-<img width="22px" title=".Net" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg">
+<!-- <img width="22px" title=".Net" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg"> -->
 <img width="22px" title="C#" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg">
 <img width="22px" title="MySql" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
 <img width="22px" title="Python" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-<img width="22px" title="AWS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg">
-<img width="22px" title="Webpack" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg">
+<!-- <img width="22px" title="AWS" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg"> -->
+<!-- <img width="22px" title="Webpack" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/webpack.svg"> -->
 <img width="22px" title="Git" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
 <img width="22px" title="GitHub" align="left" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22px"/> 
