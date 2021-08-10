@@ -12,10 +12,10 @@
 <h6 dir="rtl">  🧡 ריאקט  <a href="https://github.com/ShiraBenZaken/simple-fast-react-spa">SPA בריאקט + משחק X O</a>   </h6>
 <h6 dir="rtl">  💛 אנגולר  <a href="https://github.com/ShiraBenZaken/Exemple-Angular-Mini-Very_Simple-Project">פונקציונליות פשוטה הוספה מחיקה..</a> |
 <a href="https://github.com/ShiraBenZaken/mysite-project-">אתר אישי</a>   </h6>
-<h6 dir="rtl">  💚 פייתון  <a href="https://github.com/ShiraBenZaken/Hangman-in-Python">HUNGMAN</a>  | <a href="https://github.com/ShiraBenZaken/the-othe-side-of-the-world-in-python"> בצד השני של העולם ✈ 🗺</a> | <a href="https://github.com/ShiraBenZaken/Flatmate_Bill"> שכר דירה לשותפים 👌</a> | <a href="https://github.com/ShiraBenZaken/Math_Painting">ציור במתמטיקה 🎨</a> | <a href="https://github.com/ShiraBenZaken/App-5-Flatmates-Bill-Web-App"> שכר שירה לשותפים - WebApp 👌</a> </h6>
+<h6 dir="rtl">  💚 פייתון  <a href="https://github.com/ShiraBenZaken/Hangman-in-Python">HUNGMAN</a>  | <a href="https://github.com/ShiraBenZaken/the-othe-side-of-the-world-in-python"> בצד השני של העולם ✈ 🗺</a> | <a href="https://github.com/ShiraBenZaken/Flatmate_Bill"> שכר דירה לשותפים 👌</a> | <a href="https://github.com/ShiraBenZaken/Math_Painting">ציור במתמטיקה 🎨</a> | <a href="https://github.com/ShiraBenZaken/App-5-Flatmates-Bill-Web-App"> שכר שירה לשותפים - WebApp 👌</a> | <a href="https://github.com/ShiraBenZaken/Instant-Dictionary-Webapp"> מילון אנגלי - בעת הקלדה 📚 </a>  </h6>
 <h6 dir="rtl">  💜 HTML  <a href="https://github.com/ShiraBenZaken/html_project">תרגיל קטן ב html+css+js</a>   </h6>
 <h6 dir="rtl">  💙 NODE.JS  <a href="https://github.com/ShiraBenZaken/nodejs_employees-master">ניהול עובדים</a>   </h6>
-
+<!--  -->
 
 <p dir="rtl"> 🛴 אפשר להשיג אותי ב 💬<a href="https://www.linkedin.com/in/shira-ben-zaken/">לינקדאין</a> וב💌 <a href="mailto:shira441192@gmail.com">אימייל</a>  </p>
 
