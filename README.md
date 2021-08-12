@@ -9,13 +9,13 @@
 
 <h5 dir="rtl"> הפרוייקטים הרציניים פרטיים- איתכם הסליחה 👩‍💻 </h5>
 
-<h6 dir="rtl">  🧡 ריאקט  <a href="https://github.com/ShiraBenZaken/simple-fast-react-spa">SPA בריאקט + משחק X O</a>   </h6>
-<h6 dir="rtl">  💛 אנגולר  <a href="https://github.com/ShiraBenZaken/Exemple-Angular-Mini-Very_Simple-Project">פונקציונליות פשוטה הוספה מחיקה..</a> |
+<h6 dir="rtl">  🧡 ריאקט  <a href="https://github.com/ShiraBenZaken/simple-fast-react-spa">SPA בריאקט + משחק X O ❌⭕</a>   </h6>
+<h6 dir="rtl">  💛 אנגולר  <a href="https://github.com/ShiraBenZaken/Exemple-Angular-Mini-Very_Simple-Project">פונקציונליות פשוטה הוספה מחיקה.. 🌐</a> |
 <a href="https://github.com/ShiraBenZaken/mysite-project-">אתר אישי</a>   </h6>
 <h6 dir="rtl">  💚 פייתון  <a href="https://github.com/ShiraBenZaken/Hangman-in-Python">משחק איש תלוי 🤦‍♂️🧷</a>  | <a href="https://github.com/ShiraBenZaken/the-othe-side-of-the-world-in-python"> בצד השני של העולם ✈ 🗺</a> | <a href="https://github.com/ShiraBenZaken/Flatmate_Bill"> שכר דירה לשותפים 👌</a> | <a href="https://github.com/ShiraBenZaken/Math_Painting">ציור במתמטיקה 🎨</a> | <a href="https://github.com/ShiraBenZaken/App-5-Flatmates-Bill-Web-App"> שכר שירה לשותפים - WebApp 👌</a>  <br> 
   | <a href="https://github.com/ShiraBenZaken/Instant-Dictionary-Webapp"> WebApp מילון אנגלי - בעת הקלדה 📚  </a>  </h6>
-<h6 dir="rtl">  💜 HTML  <a href="https://github.com/ShiraBenZaken/html_project">תרגיל קטן ב html+css+js</a>   </h6>
-<h6 dir="rtl">  💙 NODE.JS  <a href="https://github.com/ShiraBenZaken/nodejs_employees-master">ניהול עובדים</a>   </h6>
+<h6 dir="rtl">  💜 HTML  <a href="https://github.com/ShiraBenZaken/html_project">תרגיל קטן ב html+css+js 🤏</a>   </h6>
+<h6 dir="rtl">  💙 NODE.JS  <a href="https://github.com/ShiraBenZaken/nodejs_employees-master">ניהול עובדים 👷‍♀️</a>   </h6>
 <!--  -->
 
 
