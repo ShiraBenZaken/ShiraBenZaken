@@ -20,9 +20,9 @@
 
 
 
-<p dir="rtl"> 🛴 אפשר להשיג אותי ב 💬<a href="https://www.linkedin.com/in/shira-ben-zaken/">לינקדאין</a> וב💌 <a href="mailto:shira441192@gmail.com">אימייל</a>  </p>
+<!-- <p dir="rtl"> 🛴 אפשר להשיג אותי ב 💬<a href="https://www.linkedin.com/in/shira-ben-zaken/">לינקדאין</a> וב💌 <a href="mailto:shira441192@gmail.com">אימייל</a>  </p> -->
 
-<h4> אשמח לשמוע מכם 💜 </h4>
+<h4 dir="rtl"> אשמח לשמוע מכם 💜 </h4>
 
 <h2> Skills </h2>
 
