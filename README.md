@@ -1,5 +1,5 @@
 
-<h1 dir="rtl"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>היי, אני שירה בן-זקן</h1>
+<!-- <h1 dir="rtl"> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>היי, אני שירה בן-זקן</h1> -->
 
 [![GitHub ShiraBenZaken](https://img.shields.io/github/followers/ShiraBenZaken?label=follow&style=social)](https://github.com/ShiraBenZaken)&nbsp;
 [![Linkedin Profile](https://img.shields.io/badge/-Shira%20BenZaken-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shira-ben-zaken/)&nbsp;
@@ -22,7 +22,7 @@
 
 <!-- <p dir="rtl"> 🛴 אפשר להשיג אותי ב 💬<a href="https://www.linkedin.com/in/shira-ben-zaken/">לינקדאין</a> וב💌 <a href="mailto:shira441192@gmail.com">אימייל</a>  </p> -->
 
-<h4 dir="rtl"> אשמח לשמוע מכם 💜 </h4>
+<!-- <h4 dir="rtl"> אשמח לשמוע מכם 💜 </h4> -->
 
 <h2> Skills </h2>
 
