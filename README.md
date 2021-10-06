@@ -4,7 +4,7 @@
 [![GitHub ShiraBenZaken](https://img.shields.io/github/followers/ShiraBenZaken?label=follow&style=social)](https://github.com/ShiraBenZaken)&nbsp;
 [![Linkedin Profile](https://img.shields.io/badge/-Shira%20BenZaken-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shira-ben-zaken/)&nbsp;
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=ShiraBenZaken/ShiraBenZaken)&nbsp;
-  
+<!--
 <!-- <p dir="rtl"> כמה פרוייקטים מעניינים: </p>
 
 <h5 dir="rtl"> הפרוייקטים הרציניים פרטיים- איתכם הסליחה 👩‍💻 </h5>
@@ -15,7 +15,8 @@
 <h6 dir="rtl">  💚 פייתון  <a href="https://github.com/ShiraBenZaken/Hangman-in-Python">משחק איש תלוי 🤦‍♂️🧷</a>  | <a href="https://github.com/ShiraBenZaken/the-othe-side-of-the-world-in-python"> בצד השני של העולם ✈ 🗺</a> | <a href="https://github.com/ShiraBenZaken/Flatmate_Bill"> שכר דירה לשותפים 👌</a> | <a href="https://github.com/ShiraBenZaken/Math_Painting">ציור במתמטיקה 🎨</a> | <a href="https://github.com/ShiraBenZaken/App-5-Flatmates-Bill-Web-App"> שכר שירה לשותפים - WebApp 👌</a>  <br> 
   | <a href="https://github.com/ShiraBenZaken/Instant-Dictionary-Webapp"> WebApp מילון אנגלי - בעת הקלדה 📚  </a>  </h6>
 <h6 dir="rtl">  💙 NODE.JS  <a href="https://github.com/ShiraBenZaken/nodejs_employees-master">ניהול עובדים 👷‍♀️</a>   </h6>
-<!--  --> -->
+<!--  -->
+-->
 
 
 <p dir="rtl"> 🛴 אפשר להשיג אותי ב 💬<a href="https://www.linkedin.com/in/shira-ben-zaken/">לינקדאין</a> וב💌 <a href="mailto:shira441192@gmail.com">אימייל</a>  </p>
